@@ -6,7 +6,7 @@
  * Author: Chris Parey
  * Return: void
  */
-int rsa_main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	FILE *fptr;
 	size_t count;
