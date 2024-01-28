@@ -10,5 +10,6 @@
 
 /* size_t getline(char **lineptr, size_t *n, FILE *stream); */
 int factorize(char *buffer);
+int rsa_main(int argc, char *argv[]);
 
 #endif /* _FACTOR_H_ */
